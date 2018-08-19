@@ -1,2 +1,1 @@
-#headline
-dump of snippets
+#dump of snippets
